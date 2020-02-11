@@ -16,4 +16,5 @@ In order to understand JavaFX, basic understanding of 3D space and data structur
 **Meshes:** Any geometric shape that represents an entity.
 
 **Materials:** A texture that is added to a mesh.
-![Motorcycle](https://i.imgur.com/QKfcEtE.gifv)
+
+![Motorcycle](https://i.imgur.com/QKfcEtE.gif)
