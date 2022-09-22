@@ -11,10 +11,10 @@ In order to understand JavaFX, basic understanding of 3D space and data structur
 
 **Node:** Each component of a tree. [All subclasses of the Scene class inherit from Node]
 
-**Children:** A node that comes from an upper node.
+**Children:** A node that comes from an upper (parent) node.
 
 **Meshes:** Any geometric shape that represents an entity.
 
-**Materials:** A texture that is added to a mesh.
+**Materials:** A 2D image that is added to a mesh.
 
 ![Motorcycle](https://i.imgur.com/QKfcEtE.gif)
